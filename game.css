@@ -13,7 +13,7 @@ body{
 .game{
     display: flex;
     width: 1000px;
-    height: 944px;
+    height: 894px;
     margin: auto;
     flex-wrap: wrap;
     perspective: 1000px;
